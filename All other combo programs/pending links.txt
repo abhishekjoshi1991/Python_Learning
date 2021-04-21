@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/reverse-string-python-5-different-ways/
+
+https://www.geeksforgeeks.org/python-sort-tuple-float-element/

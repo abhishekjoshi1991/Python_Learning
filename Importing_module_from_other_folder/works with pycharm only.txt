@@ -1,0 +1,4 @@
+in pycharm open project with parent folder name 
+
+1. first run file x in folder B
+2. then run file y in folder A

@@ -1,0 +1,10 @@
+while creating package and sub package, we need to create __init__.py as a blank file in both of this folders
+
+that means we can create multiple subpackage, but all of them must contains __init__.py file
+
+by this file python can understood this folder has to be treated as package.
+
+let's create the file named as mymainprogram_pack.py outside the UserDefinedPackages folder
+
+this topic is covered from udemy course under modules and packages video
+
