@@ -1,7 +1,7 @@
 # a+=b is not always equal to a=a+b
 
 
-#a+=b always update the value of orginal variable
+#a+=b always update the value of orginal  variable
 
 l1=[1,2,3,4,5]
 l2=l1
